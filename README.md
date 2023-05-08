@@ -6,7 +6,7 @@ IRB.send :easter_egg, :dancing
 
 ### 🧑‍💻 Projects
 
-I'm currently working on:
+I’m currently working on:
 
 **[rails-template](https://github.com/mattbrictson/rails-template)** – A curation of various best practices for building Rails apps that I have collected over the years. This is always in flux as the Rails ecosystem evolves and I continue to learn from project experiences; I recently added [Vite](https://github.com/mattbrictson/rails-template#optional-support-for-vite_rails%EF%B8%8F), for example.
 
@@ -23,7 +23,7 @@ Other Ruby open source projects that I’ve built and continue to support:
 
 ### 🪴 Maintenance
 
-I also serve as a core contributor and maintainer for the following projects:
+I also serve as a core contributor and maintainer for the following Ruby projects:
 
 - [capistrano](https://github.com/capistrano/capistrano)
 - [capistrano/rails](https://github.com/capistrano/rails)
