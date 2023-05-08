@@ -6,23 +6,20 @@ IRB.send :easter_egg, :dancing
 
 ### 🧑‍💻 Projects
 
----
+I'm currently working on:
 
-**[rails-template](https://github.com/mattbrictson/rails-template)** – Probably my most recognized open source project, rails-template is a curation of various best practices for building Rails apps that I have collected over the years. This is always in flux as the Rails ecosystem evolves and I continue to learn from project experiences; I recently added [Vite](https://github.com/mattbrictson/rails-template#optional-support-for-vite_rails%EF%B8%8F), for example.
+**[rails-template](https://github.com/mattbrictson/rails-template)** – A curation of various best practices for building Rails apps that I have collected over the years. This is always in flux as the Rails ecosystem evolves and I continue to learn from project experiences; I recently added [Vite](https://github.com/mattbrictson/rails-template#optional-support-for-vite_rails%EF%B8%8F), for example.
 
 **[tomo](https://github.com/mattbrictson/tomo)** – This is my take on a modern alternative to Capistrano for deploying Rails apps. It focuses on a friendly developer experience: familiar SSH concepts, an intuitive CLI, well-documented extension points, and helpful error messages. I use tomo to deploy many of my side projects.
-
-**[dotfiles](https://github.com/mattbrictson/dotfiles)** – If you want a peek inside of my daily workflow (git aliases, bash scripts, homebrew packages, Sublime Text configs), this is the place to go.
 
 ---
 
 Other Ruby open source projects that I’ve built and continue to support:
 
-- [bundleup](https://github.com/mattbrictson/bundleup) is a slick CLI for Gemfile upgrades. It’s a bit like `yarn upgrade-interactive`, but for Bundler.
+- [bundleup](https://github.com/mattbrictson/bundleup) is a CLI for Gemfile upgrades. It’s a bit like `yarn upgrade-interactive`, but for Bundler.
 - [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) plugs into Rails apps to replace the default database console with the more full-featured `pgcli`.
 - [gem](https://github.com/mattbrictson/gem) is a GitHub template for building and maintaining gems.
 - [jess](https://github.com/mattbrictson/jess) is a Ruby wrapper for parts of the JAMF API.
-
 
 ### 🪴 Maintenance
 
