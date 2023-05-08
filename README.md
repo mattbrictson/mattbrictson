@@ -1,3 +1,7 @@
+```ruby
+IRB.send :easter_egg, :dancing
+```
+
 <img src="./ruby.gif" width="194" height="175" alt="Spinning Ruby logo">
 
 ### 🧑‍💻 Projects
