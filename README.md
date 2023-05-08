@@ -1,6 +1,4 @@
-Hi! Professionally I am a polyglot developer and engineering team leader, but in my free time and in the realm of open source, I pride myself as being a full time Ruby nerd. 🤓
-
-Here’s what I’m up to these days!
+<img src="./ruby.gif" width="194" height="175" alt="Spinning Ruby logo">
 
 ### 🧑‍💻 Projects
 
@@ -24,7 +22,7 @@ Other Ruby open source projects that I’ve built and continue to support:
 
 ### 🪴 Maintenance
 
-I also serve as a core contributor and maintainer for the following notable Ruby projects:
+I also serve as a core contributor and maintainer for the following projects:
 
 - [capistrano](https://github.com/capistrano/capistrano)
 - [capistrano/rails](https://github.com/capistrano/rails)
