@@ -36,6 +36,6 @@ I also serve as a core contributor and maintainer for the following Ruby project
 
 You can find my writing at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are a few things I’ve posted recently:
 
+- [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
 - [Automatically open the browser when the Rails server starts](https://mattbrictson.com/blog/open-browser-on-rails-start)
 - [Configuring Rails and Vite to use HTTPS in local development](https://mattbrictson.com/blog/rails-vite-localhost-https)
-- [Configuring RuboCop to scan the right files in a Rails project](https://mattbrictson.com/blog/including-and-excluding-files-in-rubocop)
