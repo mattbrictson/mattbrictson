@@ -4,6 +4,14 @@ IRB.send :easter_egg, :dancing
 
 <img src="./ruby.gif" width="194" height="175" alt="Spinning Ruby logo">
 
+### 💬 Writing
+
+I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
+
+- [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
+- [Automatically open the browser when the Rails server starts](https://mattbrictson.com/blog/open-browser-on-rails-start)
+- [Configuring Rails and Vite to use HTTPS in local development](https://mattbrictson.com/blog/rails-vite-localhost-https)
+
 ### 🧑‍💻 Projects
 
 I’m currently working on:
@@ -30,12 +38,3 @@ I also serve as a core contributor and maintainer for the following Ruby project
 - [capistrano/bundler](https://github.com/capistrano/bundler)
 - [sshkit](https://github.com/capistrano/sshkit)
 - [plist](https://github.com/patsplat/plist)
-
-
-### 💬 Writing
-
-You can find my writing at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are a few things I’ve posted recently:
-
-- [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
-- [Automatically open the browser when the Rails server starts](https://mattbrictson.com/blog/open-browser-on-rails-start)
-- [Configuring Rails and Vite to use HTTPS in local development](https://mattbrictson.com/blog/rails-vite-localhost-https)
