@@ -8,10 +8,10 @@ IRB.send :easter_egg, :dancing
 
 I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
 
+- [Inline SVGs with Rails and Vite](https://mattbrictson.com/blog/inline-svg-with-vite-rails)
 - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
 - [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
 - [Automatically open the browser when the Rails server starts](https://mattbrictson.com/blog/open-browser-on-rails-start)
-- [Configuring Rails and Vite to use HTTPS in local development](https://mattbrictson.com/blog/rails-vite-localhost-https)
 
 ### 🧑‍💻 Projects
 
