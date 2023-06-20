@@ -8,11 +8,11 @@ IRB.send :easter_egg, :dancing
 
 I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
 
+- [Tips for writing Rails tasks with Thor instead of Rake](https://mattbrictson.com/blog/rails-tasks-with-thor)
 - [Applying a Rate Limit in Sidekiq](https://mattbrictson.com/blog/applying-a-rate-limit-in-sidekiq)
 - [The 3 Vite plugins I use on every new Rails project](https://mattbrictson.com/blog/3-vite-rails-plugins)
 - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
 - [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
-- [Automatically open the browser when the Rails server starts](https://mattbrictson.com/blog/open-browser-on-rails-start)
 
 ### 🧑‍💻 Projects
 
