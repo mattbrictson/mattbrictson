@@ -29,7 +29,6 @@ Other Ruby open source projects that I’ve built and continue to support:
 - [bundleup](https://github.com/mattbrictson/bundleup) is a CLI for Gemfile upgrades. It’s a bit like `yarn upgrade-interactive`, but for Bundler.
 - [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) plugs into Rails apps to replace the default database console with the more full-featured `pgcli`.
 - [gem](https://github.com/mattbrictson/gem) is a GitHub template for building and maintaining gems.
-- [jess](https://github.com/mattbrictson/jess) is a Ruby wrapper for parts of the JAMF API.
 
 ### 🪴 Maintenance
 
@@ -40,3 +39,4 @@ I also serve as a core contributor and maintainer for the following Ruby project
 - [capistrano/bundler](https://github.com/capistrano/bundler)
 - [sshkit](https://github.com/capistrano/sshkit)
 - [plist](https://github.com/patsplat/plist)
+- [minitest-snapshots](https://github.com/mattbrictson/minitest-snapshots)
