@@ -8,7 +8,7 @@ IRB.send :easter_egg, :dancing
 
 I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
 
-- [How to organize CSS in a Rails project](https://mattbrictson.com/blog/organizing-css-in-rails)
+- [Automate Rails deployments with GitHub Actions](https://mattbrictson.com/blog/deploy-rails-with-github-actions)
 - [Don’t reinvent the wheel with Rails exception handling](https://mattbrictson.com/blog/handling-rails-exceptions)
 - [Improve your GitHub workflow with better repository defaults](https://mattbrictson.com/blog/github-repo-setup)
 - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
