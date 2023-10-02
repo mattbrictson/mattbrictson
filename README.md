@@ -8,7 +8,7 @@ IRB.send :easter_egg, :dancing
 
 I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
 
-- [Fixing Thor’s CLI Quirks](https://mattbrictson.com/blog/fixing-thor-cli-behavior)
+- [Bundler 2.4.20 understands `.ruby-version` files](https://mattbrictson.com/blog/bundler-ruby-file)
 - [Speed up your default Rake task with the multitask `-m` option](https://mattbrictson.com/blog/rake-multitask)
 - [Automate Rails deployments with GitHub Actions](https://mattbrictson.com/blog/deploy-rails-with-github-actions)
 - [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
