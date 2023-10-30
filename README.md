@@ -18,7 +18,7 @@ I write about Ruby and related programming topics at [mattbrictson.com/blog](htt
 
 I’m currently working on:
 
-**[rails-template](https://github.com/mattbrictson/rails-template)** – A curation of various best practices for building Rails apps that I have collected over the years. This is always in flux as the Rails ecosystem evolves and I continue to learn from project experiences; I recently added [Vite](https://github.com/mattbrictson/rails-template#optional-support-for-vite_rails%EF%B8%8F), for example.
+**[nextgen](https://github.com/mattbrictson/nextgen)** – I regularly update a Rails app generator with recommendations based on my latest Rails consulting work. Nextgen embraces the fact that every project has different requirements, and offers dozens of interactive options, including Vite for apps that need robust TS/React frontends.
 
 **[tomo](https://github.com/mattbrictson/tomo)** – This is my take on a modern alternative to Capistrano for deploying Rails apps. It focuses on a friendly developer experience: familiar SSH concepts, an intuitive CLI, well-documented extension points, and helpful error messages. I use tomo to deploy many of my side projects.
 
