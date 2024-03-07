@@ -18,6 +18,8 @@ I write about Ruby and related programming topics at [mattbrictson.com/blog](htt
 
 I’m currently working on:
 
+**[mighty_test](https://github.com/mattbrictson/mighty_test)** – Minitest is the standard testing library for Ruby projects, but it lacks the DX polish that developers have come to expect from modern testing tools. My mighty_test gem gives Minitest a modern CLI with common-sense features like color output, fail-fast, CI integration, and interactive watch mode.
+
 **[nextgen](https://github.com/mattbrictson/nextgen)** – I regularly update a Rails app generator with recommendations based on my latest Rails consulting work. Nextgen embraces the fact that every project has different requirements, and offers dozens of interactive options, including Vite for apps that need robust TS/React frontends.
 
 **[tomo](https://github.com/mattbrictson/tomo)** – This is my take on a modern alternative to Capistrano for deploying Rails apps. It focuses on a friendly developer experience: familiar SSH concepts, an intuitive CLI, well-documented extension points, and helpful error messages. I use tomo to deploy many of my side projects.
