@@ -8,10 +8,10 @@ IRB.send :easter_egg, :dancing
 
 I write about Ruby and related programming topics at [mattbrictson.com/blog](https://mattbrictson.com/blog). Here are some articles I’ve posted recently:
 
-- [Simplify your Capybara selectors](https://mattbrictson.com/blog/simplify-capybara-selectors)
-- [7 Lesser-Known Features and Changes in Rails 7.1](https://mattbrictson.com/blog/rails-71-features)
+- [The Hidden Complexities of Running Shell Commands in Ruby](https://mattbrictson.com/blog/run-shell-commands-in-ruby)
+- [How to organize CSS in a Rails project](https://mattbrictson.com/blog/organizing-css-in-rails)
 - [Automate Rails deployments with GitHub Actions](https://mattbrictson.com/blog/deploy-rails-with-github-actions)
-- [The Gateway Pattern](https://mattbrictson.com/blog/gateway-pattern)
+- [The 3 Vite plugins I use on every new Rails project](https://mattbrictson.com/blog/3-vite-rails-plugins)
 - [Advanced techniques for calling HTTP APIs in Ruby](https://mattbrictson.com/blog/advanced-http-techniques-in-ruby)
 
 ### 🧑‍💻 Projects
