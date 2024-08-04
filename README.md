@@ -18,7 +18,8 @@ I write about Ruby and related programming topics at [mattbrictson.com/blog](htt
 
 I’m currently working on:
 
-**[mighty_test](https://github.com/mattbrictson/mighty_test)** – Minitest is the standard testing library for Ruby projects, but it lacks the DX polish that developers have come to expect from modern testing tools. My mighty_test gem gives Minitest a modern CLI with common-sense features like color output, fail-fast, CI integration, and interactive watch mode.
+
+**[bundle_update_interactive](https://github.com/mattbrictson/bundle_update_interactive)** – I’ve created a popular interactive mode for Bundler, inspired by `yarn upgrade-interactive`, and continue to add features based on community involvement.
 
 **[nextgen](https://github.com/mattbrictson/nextgen)** – I regularly update a Rails app generator with recommendations based on my latest Rails consulting work. Nextgen embraces the fact that every project has different requirements, and offers dozens of interactive options, including Vite for apps that need robust TS/React frontends.
 
@@ -28,9 +29,9 @@ I’m currently working on:
 
 Other Ruby open source projects that I’ve built and continue to support:
 
-- [bundleup](https://github.com/mattbrictson/bundleup) is a CLI for Gemfile upgrades. It’s a bit like `yarn upgrade-interactive`, but for Bundler.
+- [mighty_test](https://github.com/mattbrictson/mighty_test) is a refined CLI for Minitest that adds color output, fail-fast, CI integration, and interactive watch mode.
 - [pgcli-rails](https://github.com/mattbrictson/pgcli-rails) plugs into Rails apps to replace the default database console with the more full-featured `pgcli`.
-- [gem](https://github.com/mattbrictson/gem) is a GitHub template for building and maintaining gems.
+- [gem](https://github.com/mattbrictson/gem) is the GitHub template I use for building and maintaining gems.
 
 ### 🪴 Maintenance
 
